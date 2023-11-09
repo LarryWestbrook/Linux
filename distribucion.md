@@ -1,0 +1,1 @@
+La distribucion son sistemas operativos instalables diseñados a partir del kernel de Linux, que admiten programas de usuarios, repositorios y bibliotecas. La versión de cada comunidad o proveedor es una distribución.

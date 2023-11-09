@@ -4,11 +4,14 @@
 
 ## Indice
 
+
 1. [Introducción](Introducción.md)
 2. [Características](Características.md)
-3. Distribución 
+3. [Distribución](distribucion.md)
+
+
 
 ## Referencias 
-
+[Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 
 ## Licencias 
