@@ -4,9 +4,11 @@
 
 ## Indice
 
-1. Introducción
-2. Características
+
+1. [Introducción](Introducción.md)
+2. [Características](Características.md)
 3. [Distribución](distribucion.md)
+
 
 
 ## Referencias 
